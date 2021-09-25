@@ -28,6 +28,7 @@ ModIDS = {
         2295833140, -- booster token#1234
         1432929188, -- killbill#7258 robux
         907152345, -- kayden 
+        1755090546, -- mys
         
 
 
