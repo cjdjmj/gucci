@@ -6,6 +6,7 @@ ModIDS = {
         309977534, -- havcy
         2354673878, -- dandre
         566005672, -- KubzoneKKK booster
+        907152345, -- kayd
 
         2683206368, -- AkatsukiMEGOOD -- booster
         1733748324, -- buyer JayX
@@ -28,7 +29,6 @@ ModIDS = {
         1432929188, -- killbill#7258 robux
         1755090546, -- mys
         206421734, -- 4Ace
-        907152345, -- kayd
         
 
 
