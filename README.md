@@ -29,6 +29,7 @@ ModIDS = {
         1432929188, -- killbill#7258 robux
         1755090546, -- mys
         206421734, -- 4Ace
+        1167903454, -- dropped 5m
         
 
 
