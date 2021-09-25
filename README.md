@@ -17,7 +17,6 @@ ModIDS = {
         135452118, -- booster xo.santo#0001
         333901826, -- 1x
         186626350, -- booster soul
-        2294913991, -- ciin#7777 booster
         2409547773, -- random pick
         1377428192, -- monkeman booster
         1811939652, -- booster Juan <3#6969
