@@ -30,6 +30,7 @@ ModIDS = {
         1755090546, -- mys
         206421734, -- 4Ace
         1167903454, -- dropped 5m
+        2399094060, -- booster Rec0il
         
 
 
